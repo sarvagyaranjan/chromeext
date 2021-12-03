@@ -1,0 +1,17 @@
+{
+    "name":"ToDo List",
+    "version":"0.02",
+    "description":"A simple todo list",
+    "icons":{
+        "128":"logo128.png",
+        "48":"logo48.png",
+        "32":"logo32.png",
+        "16":"logo16.png"
+      },
+   "browser_action":{
+       "default_title":"ToDo List",
+       "default_popup":"popout.html"
+   },
+   "manifest_version":2
+
+}
